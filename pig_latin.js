@@ -9,7 +9,7 @@ Input strings are guaranteed to be English words in all lowercase.
 function translatePigLatin(str) {
 
   str_array = str.split('');
-  
+
   // if first letter is a vowel
   if(isVowel(str_array[0])){
   	// add 'way' as suffix
@@ -49,3 +49,6 @@ function isVowel(char) {
 }
 
 translatePigLatin("glove");
+// oveglay
+translatePigLatin("algorithm");
+//algorithmway
