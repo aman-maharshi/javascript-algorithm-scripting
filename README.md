@@ -1,1 +1,1 @@
-# FCC-Intermediate-Algorithms
+# Free Code Camp - Intermediate Algorithms
