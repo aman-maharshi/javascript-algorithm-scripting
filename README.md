@@ -1,1 +1,1 @@
-# Free Code Camp - Intermediate Algorithms
+# Algorithm Scripting in JavaScript
